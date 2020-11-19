@@ -48,18 +48,7 @@ renren-fast
 ```
 <br> 
 
-**如何交流、反馈、参与贡献？** 
-- 开发文档：https://www.renren.io/guide
-- Git仓库：https://gitee.com/renrenio/renren-fast
-- [人人开源社区](https://www.renren.io/community)：https://www.renren.io/community
-- 官方QQ群：324780204、145799952
-- 技术讨论、二次开发等咨询、问题和建议，请移步到人人开源社区，我会在第一时间进行解答和回复！
-- 如需关注项目最新动态，请Watch、Star项目，同时也是对项目最好的支持
-- 微信扫码并关注【人人开源】，获得项目最新动态及更新提醒
 
-<br>
-
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0307/090140_260d672d_63154.jpeg "在这里输入图片标题")
 
 <br> 
 
@@ -96,9 +85,6 @@ renren-fast
  
  <br>
 
- **项目演示**
-- 演示地址：http://demo.open.renren.io/renren-fast
-- 账号密码：admin/admin
 <br> 
 
 **接口文档效果图：**
